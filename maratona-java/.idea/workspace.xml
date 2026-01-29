@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/introducao/OlaDevLucas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/OlaDevLucas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula01OlaDevLucas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
   "keyToString": {
     "Application.Aula01OlaDevLucas.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
+    "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.OlaDevLucas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -69,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula02TiposPrimitivos">
+  <component name="RunManager">
     <configuration name="Aula01OlaDevLucas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.introducao.Aula01OlaDevLucas" />
       <module name="maratona-java" />
@@ -113,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769633564410</updated>
       <workItem from="1769644740773" duration="5661000" />
-      <workItem from="1769692507999" duration="7200000" />
+      <workItem from="1769692507999" duration="10392000" />
     </task>
     <servers />
   </component>
