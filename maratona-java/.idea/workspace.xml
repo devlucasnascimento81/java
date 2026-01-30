@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "Application.Aula01OlaDevLucas.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
+    "Application.Aula04Operadores.executor": "Debug",
     "Application.OlaDevLucas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -92,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula02TiposPrimitivos" />
         <item itemvalue="Application.Aula01OlaDevLucas" />
+        <item itemvalue="Application.Aula02TiposPrimitivos" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +113,8 @@
       <option name="presentableId" value="Default" />
       <updated>1769633564410</updated>
       <workItem from="1769644740773" duration="5661000" />
-      <workItem from="1769692507999" duration="10392000" />
+      <workItem from="1769692507999" duration="17529000" />
+      <workItem from="1769796888761" duration="852000" />
     </task>
     <servers />
   </component>
