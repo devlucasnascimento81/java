@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula05EstruturasCondicionais01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula05EstruturasCondicionais03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula05EstruturasCondicionais04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula05EstruturasCondicionais05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula05EstruturasCondicionais06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +48,11 @@
     "Application.Aula01OlaDevLucas.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
-    "Application.Aula04Operadores.executor": "Debug",
+    "Application.Aula04Operadores.executor": "Run",
+    "Application.Aula05EstruturasCondicionais.executor": "Run",
+    "Application.Aula05EstruturasCondicionais02.executor": "Run",
+    "Application.Aula05EstruturasCondicionais03.executor": "Run",
+    "Application.Aula05EstruturasCondicionais04.executor": "Run",
     "Application.OlaDevLucas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -114,7 +123,8 @@
       <updated>1769633564410</updated>
       <workItem from="1769644740773" duration="5661000" />
       <workItem from="1769692507999" duration="17529000" />
-      <workItem from="1769796888761" duration="852000" />
+      <workItem from="1769796888761" duration="10077000" />
+      <workItem from="1769863745249" duration="9182000" />
     </task>
     <servers />
   </component>
