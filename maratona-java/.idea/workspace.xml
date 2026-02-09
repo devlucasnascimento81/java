@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula08ArraysMultidimensionais01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula08ArraysMultidimensionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula08ArraysMultidimensionais02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/introducao/Aula08ArraysMultidimensionais02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Aula01OlaDevLucas.executor": "Debug",
+    "Application.Aula01OlaDevLucas.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
@@ -56,7 +62,10 @@
     "Application.Aula07Arrays03.executor": "Run",
     "Application.Aula08ArraysMultidimensionais01.executor": "Run",
     "Application.Aula08ArraysMultidimensionais02.executor": "Run",
+    "Application.CarroTest01.executor": "Run",
+    "Application.EstudanteTest01.executor": "Run",
     "Application.OlaDevLucas.executor": "Run",
+    "Application.ProfessorTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,7 +90,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CarroTest01">
     <configuration name="Aula01OlaDevLucas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.introducao.Aula01OlaDevLucas" />
       <module name="maratona-java" />
@@ -102,8 +111,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.test.CarroTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfessorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.test.ProfessorTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTest01" />
+        <item itemvalue="Application.ProfessorTest01" />
         <item itemvalue="Application.Aula01OlaDevLucas" />
         <item itemvalue="Application.Aula02TiposPrimitivos" />
       </list>
@@ -134,7 +171,10 @@
       <workItem from="1770169234869" duration="2005000" />
       <workItem from="1770228831199" duration="4949000" />
       <workItem from="1770255893192" duration="880000" />
-      <workItem from="1770295965522" duration="8304000" />
+      <workItem from="1770295965522" duration="8486000" />
+      <workItem from="1770381931951" duration="5404000" />
+      <workItem from="1770491873753" duration="2272000" />
+      <workItem from="1770675532361" duration="1854000" />
     </task>
     <servers />
   </component>
