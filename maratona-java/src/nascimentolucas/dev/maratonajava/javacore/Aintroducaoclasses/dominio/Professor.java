@@ -1,4 +1,4 @@
-package nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.domain;
+package nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.dominio;
 
 public class Professor {
     public String nome;

@@ -1,6 +1,6 @@
 package nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.test;
 
-import nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.domain.Estudante;
+import nascimentolucas.dev.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
 
 public class EstudanteTest02 {
     public static void main(String[] args) {

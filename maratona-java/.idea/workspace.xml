@@ -5,11 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Fmodificaadorestatico/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Fmodificaadorestatico/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Fmodificaadorestatico/test/AnimeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Fmodificaadorestatico/test/CarroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/domino/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/domino/Escola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/domino/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/domino/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/domino/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/domino/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/domino/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/test/AssociacaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/test/EscolaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/test/JogadorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/test/JogadorTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/test/JogadorTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Estudante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/domain/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +68,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnimeTest01.executor": "Run",
+    "Application.AssociacaoTest.executor": "Run",
     "Application.Aula01OlaDevLucas.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
@@ -65,9 +90,15 @@
     "Application.CalculadoraTest04.executor": "Run",
     "Application.CalculadoraTest05.executor": "Run",
     "Application.CarroTest01.executor": "Run",
+    "Application.EscolaTest01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
     "Application.FuncionarioTest01.executor": "Run",
+    "Application.JogadorTest01.executor": "Run",
+    "Application.JogadorTest02.executor": "Run",
+    "Application.JogadorTest03.executor": "Run",
+    "Application.LeituraDoTecladoTest01.executor": "Run",
+    "Application.LeituraDoTecladoTest02.executor": "Run",
     "Application.OlaDevLucas.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.ProfessorTest01.executor": "Run",
@@ -108,13 +139,13 @@
       <recent name="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.AnimeTest01">
-    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
+  <component name="RunManager" selected="Application.AssociacaoTest">
+    <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.AssociacaoTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Csobrecargametodos.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.CarroTest01" />
+    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.EscolaTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.test.AnimeTest01" />
+    <configuration name="JogadorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.JogadorTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nascimentolucas.dev.maratonajava.javacore.Eblocosinicializcao.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Eblocosinicializcao.test.AnimeTest01" />
+    <configuration name="LeituraDoTecladoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.LeituraDoTecladoTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Eblocosinicializcao.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.AnimeTest01" />
+    <configuration name="LeituraDoTecladoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.LeituraDoTecladoTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.AnimeTest01" />
-        <item itemvalue="Application.CarroTest01" />
-        <item itemvalue="Application.nascimentolucas.dev.maratonajava.javacore.Eblocosinicializcao.test.AnimeTest01" />
-        <item itemvalue="Application.nascimentolucas.dev.maratonajava.javacore.Dconstrutores.test.AnimeTest01" />
-        <item itemvalue="Application.AnimeTest01" />
+        <item itemvalue="Application.AssociacaoTest" />
+        <item itemvalue="Application.LeituraDoTecladoTest02" />
+        <item itemvalue="Application.LeituraDoTecladoTest01" />
+        <item itemvalue="Application.JogadorTest03" />
+        <item itemvalue="Application.EscolaTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +256,9 @@
       <workItem from="1771441712131" duration="2932000" />
       <workItem from="1771459329332" duration="5158000" />
       <workItem from="1771507532834" duration="3469000" />
+      <workItem from="1771591138040" duration="10743000" />
+      <workItem from="1771679067766" duration="2490000" />
+      <workItem from="1771869225955" duration="11212000" />
     </task>
     <servers />
   </component>
