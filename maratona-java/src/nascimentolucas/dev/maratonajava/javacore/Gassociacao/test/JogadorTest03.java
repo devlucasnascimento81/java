@@ -1,7 +1,7 @@
 package nascimentolucas.dev.maratonajava.javacore.Gassociacao.test;
 
-import nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino.Jogador;
-import nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino.Time;
+import nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio.Jogador;
+import nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio.Time;
 
 public class JogadorTest03 {
     public static void main(String[] args) {

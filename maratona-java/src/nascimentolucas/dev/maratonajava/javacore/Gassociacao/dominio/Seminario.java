@@ -1,11 +1,12 @@
-package nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino;
+package nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio;
 
 public class Seminario {
     private String titulo;
     private Aluno[] alunos;
     private Local local;
 
-    public Seminario(String titulo) {
+    public Seminario(String titulo, Local local) {
+        this.local = local;
         this.titulo = titulo;
     }
 
@@ -21,11 +22,6 @@ public class Seminario {
 
     public void setLocal(Local local) {
         this.local = local;
-    }
-
-    public Seminario(String titulo, Aluno[] alunos) {
-        this.titulo = titulo;
-        this.alunos = alunos;
     }
 
     public Aluno[] getAlunos() {

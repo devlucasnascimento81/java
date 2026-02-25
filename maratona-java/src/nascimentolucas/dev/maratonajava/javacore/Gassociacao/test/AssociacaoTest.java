@@ -1,9 +1,9 @@
 package nascimentolucas.dev.maratonajava.javacore.Gassociacao.test;
 
-import nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino.Aluno;
-import nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino.Local;
-import nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino.Professor;
-import nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino.Seminario;
+import nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio.Aluno;
+import nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio.Local;
+import nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio.Professor;
+import nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio.Seminario;
 
 public class AssociacaoTest {
     public static void main(String[] args) {

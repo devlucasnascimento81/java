@@ -1,4 +1,4 @@
-package nascimentolucas.dev.maratonajava.javacore.Gassociacao.domino;
+package nascimentolucas.dev.maratonajava.javacore.Gassociacao.dominio;
 
 public class Local {
     private String endereco;
