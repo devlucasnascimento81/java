@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Isobrescrita/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Isobrescrita/test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/dominio/Comprador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Hheranca/test/HerancaTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Hheranca/test/HerancaTest02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +117,7 @@
       <recent name="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimeTest01">
+  <component name="RunManager" selected="Application.CarroTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Isobrescrita.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -136,6 +137,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Jmodificadorfinal.test.CarroTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Jmodificadorfinal.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,26 +183,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeituraDoTecladoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.LeituraDoTecladoTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.HerancaTest02" />
         <item itemvalue="Application.HerancaTest01" />
         <item itemvalue="Application.AssociacaoTest" />
-        <item itemvalue="Application.LeituraDoTecladoTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +197,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -238,7 +238,8 @@
       <workItem from="1771869225955" duration="11212000" />
       <workItem from="1771937001412" duration="12081000" />
       <workItem from="1772048058533" duration="2337000" />
-      <workItem from="1772131850232" duration="588000" />
+      <workItem from="1772131850232" duration="6052000" />
+      <workItem from="1772211847046" duration="36000" />
     </task>
     <servers />
   </component>
