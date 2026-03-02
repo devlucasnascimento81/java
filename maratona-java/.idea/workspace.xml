@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/dominio/Comprador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Kenum/dominio/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Kenum/dominio/TipoCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Kenum/dominio/TipoPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Kenum/test/ClienteTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     &quot;Application.CalculadoraTest04.executor&quot;: &quot;Run&quot;,
     &quot;Application.CalculadoraTest05.executor&quot;: &quot;Run&quot;,
     &quot;Application.CarroTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClienteTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.EscolaTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.EstudanteTest01.executor&quot;: &quot;Run&quot;,
     &quot;Application.EstudanteTest02.executor&quot;: &quot;Run&quot;,
@@ -117,7 +118,7 @@
       <recent name="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarroTest01">
+  <component name="RunManager" selected="Application.ClienteTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Isobrescrita.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -131,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.AssociacaoTest" />
+    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Jmodificadorfinal.test.CarroTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Gassociacao.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Jmodificadorfinal.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Jmodificadorfinal.test.CarroTest01" />
+    <configuration name="ClienteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Kenum.test.ClienteTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Jmodificadorfinal.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Kenum.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClienteTest01" />
         <item itemvalue="Application.CarroTest01" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.HerancaTest02" />
         <item itemvalue="Application.HerancaTest01" />
-        <item itemvalue="Application.AssociacaoTest" />
       </list>
     </recent_temporary>
   </component>
