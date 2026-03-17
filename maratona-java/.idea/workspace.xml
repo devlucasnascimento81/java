@@ -5,20 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/dominio/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/dominio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/dominio/SmartTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/dominio/Taxavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/repositorio/Repositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/servico/RepositorioArquivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/servico/RepositorioBancoDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/servico/RepositorioMemoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/test/ProdutoTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/test/ProdutoTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Npolimorfismo/test/RepositorioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio1/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio1/test/exercicio1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio10/dominio/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio10/dominio/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio10/dominio/Pix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio10/test/exercicio10Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio11/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio11/dominio/NivelAcesso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio11/test/exercicio11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio12/dominio/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio12/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio12/dominio/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio12/dominio/TipoCombustivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio12/dominio/Transporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio12/test/exercicio12Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio13/dominio/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio13/dominio/StatusPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio13/test/exercicio13Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio14/dominio/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio14/dominio/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio14/dominio/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio14/dominio/Pix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio14/dominio/StatusPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio14/test/exercicio14Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio15/dominio/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio15/dominio/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio15/dominio/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio15/dominio/OperacaoBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio15/dominio/TipoConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio15/test/exercicio15Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio2/dominio/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio2/test/exercicio2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio3/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio3/dominio/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio3/test/exercicio3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio4/dominio/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio4/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio4/dominio/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio4/test/exercicio4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio5/dominio/Arqueiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio5/dominio/Atacavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio5/dominio/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio5/dominio/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio5/dominio/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio5/dominio/TipoPersonagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio5/test/exercicio5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio6/dominio/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio6/test/exercicio7Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio8/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio8/test/exercicio8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio9/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio9/test/exercicio9test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +67,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -97,6 +136,22 @@
     "Application.ProdutoTest03.executor": "Run",
     "Application.ProfessorTest01.executor": "Run",
     "Application.RepositorioTest.executor": "Run",
+    "Application.exercicio10Test.executor": "Run",
+    "Application.exercicio11Test.executor": "Run",
+    "Application.exercicio12Test.executor": "Run",
+    "Application.exercicio13Test.executor": "Run",
+    "Application.exercicio14Test.executor": "Run",
+    "Application.exercicio15Test.executor": "Run",
+    "Application.exercicio1Test.executor": "Run",
+    "Application.exercicio2Test.executor": "Run",
+    "Application.exercicio3Test.executor": "Run",
+    "Application.exercicio4Test.executor": "Run",
+    "Application.exercicio5Test.executor": "Run",
+    "Application.exercicio6Test.executor": "Run",
+    "Application.exercicio6Test2.executor": "Run",
+    "Application.exercicio7Test.executor": "Run",
+    "Application.exercicio8Test.executor": "Run",
+    "Application.exercicio9test.executor": "Run",
     "Application.nascimentolucas.dev.maratonajava.javacore.Dconstrutores.test.AnimeTest01.executor": "Run",
     "Application.nascimentolucas.dev.maratonajava.javacore.Eblocosinicializcao.test.AnimeTest01.executor": "Run",
     "Application.nascimentolucas.dev.maratonajava.javacore.Fmodificaadorestatico.test.AnimeTest01.executor": "Run",
@@ -110,7 +165,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/novom/OneDrive/Documentos/java/maratona-java/src/nascimentolucas/dev/maratonajava/javacore/Dconstrutores/dominio",
+    "last_opened_file_path": "C:/Users/novom/OneDrive/Documentos/java/maratona-java/src/nascimentolucas/dev/maratonajava/exercicios",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -127,6 +182,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\novom\OneDrive\Documentos\java\maratona-java\src\nascimentolucas\dev\maratonajava\exercicios" />
       <recent name="C:\Users\novom\OneDrive\Documentos\java\maratona-java\src\nascimentolucas\dev\maratonajava\javacore\Dconstrutores\dominio" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -135,13 +191,13 @@
       <recent name="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RepositorioTest">
-    <configuration name="DataLoaderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Minterfaces.test.DataLoaderTest01" />
+  <component name="RunManager" selected="Application.exercicio15Test">
+    <configuration name="exercicio11Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio11.test.exercicio11Test" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Minterfaces.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio11.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.ProdutoTest01" />
+    <configuration name="exercicio12Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio12.test.exercicio12Test" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio12.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.ProdutoTest02" />
+    <configuration name="exercicio13Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio13.test.exercicio13Test" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio13.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.ProdutoTest03" />
+    <configuration name="exercicio14Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio14.test.exercicio14Test" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio14.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepositorioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.RepositorioTest" />
+    <configuration name="exercicio15Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio15.test.exercicio15Test" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio15.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RepositorioTest" />
-        <item itemvalue="Application.ProdutoTest03" />
-        <item itemvalue="Application.ProdutoTest01" />
-        <item itemvalue="Application.ProdutoTest02" />
-        <item itemvalue="Application.DataLoaderTest01" />
+        <item itemvalue="Application.exercicio15Test" />
+        <item itemvalue="Application.exercicio14Test" />
+        <item itemvalue="Application.exercicio13Test" />
+        <item itemvalue="Application.exercicio12Test" />
+        <item itemvalue="Application.exercicio11Test" />
       </list>
     </recent_temporary>
   </component>
