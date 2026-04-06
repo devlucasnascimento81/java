@@ -1,4 +1,4 @@
-package nascimentolucas.dev.maratonajava.exercicios.exercicio43.main;
+package nascimentolucas.dev.maratonajava.exercicios.exercicio43;
 
 public class ContaDePaavras {
 

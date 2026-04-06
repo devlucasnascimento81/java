@@ -1,4 +1,4 @@
-package nascimentolucas.dev.maratonajava.exercicios.exercicio45.main;
+package nascimentolucas.dev.maratonajava.exercicios.exercicio45;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package nascimentolucas.dev.maratonajava.exercicios.exercicio42.main;
+package nascimentolucas.dev.maratonajava.exercicios.exercicio42;
 
 public class Palidromo {
     public static boolean isPalindromo(String palavra) {

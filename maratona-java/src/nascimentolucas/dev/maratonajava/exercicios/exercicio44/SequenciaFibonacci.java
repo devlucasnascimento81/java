@@ -1,4 +1,4 @@
-package nascimentolucas.dev.maratonajava.exercicios.exercicio44.main;
+package nascimentolucas.dev.maratonajava.exercicios.exercicio44;
 
 public class SequenciaFibonacci {
     public static void fibonacci(int n) {
