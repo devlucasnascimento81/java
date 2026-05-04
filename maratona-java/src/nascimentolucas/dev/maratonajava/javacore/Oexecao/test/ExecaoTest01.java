@@ -1,4 +1,4 @@
-package nascimentolucas.dev.maratonajava.javacore.Oexecao.execao.test;
+package nascimentolucas.dev.maratonajava.javacore.Oexecao.test;
 
 import java.io.File;
 import java.io.IOException;
