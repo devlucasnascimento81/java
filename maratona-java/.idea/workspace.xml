@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/CalendarTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/LocalDateTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/LocalDateTimeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/LocalTimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio62/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio62/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio62/Ex03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Qstring/test/StringBuilderTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/javacore/Qstring/test/StringBuilderTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +79,9 @@
     "Application.EscolaTest01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
+    "Application.Ex01.executor": "Run",
+    "Application.Ex02.executor": "Run",
+    "Application.Ex03.executor": "Run",
     "Application.ExA.executor": "Run",
     "Application.ExB.executor": "Run",
     "Application.ExC.executor": "Run",
@@ -172,13 +173,13 @@
       <recent name="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocalDateTimeTest01">
-    <configuration name="CalendarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.CalendarTest01" />
+  <component name="RunManager" selected="Application.Ex03">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.Ex01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +187,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDateTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.LocalDateTest01" />
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.Ex02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.Ex03" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,26 +239,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Qstring.test.StringBuilderTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Qstring.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex03" />
+        <item itemvalue="Application.Ex02" />
+        <item itemvalue="Application.Ex01" />
         <item itemvalue="Application.LocalDateTimeTest01" />
         <item itemvalue="Application.LocalTimeTest01" />
-        <item itemvalue="Application.LocalDateTest01" />
-        <item itemvalue="Application.CalendarTest01" />
-        <item itemvalue="Application.StringBuilderTest01" />
       </list>
     </recent_temporary>
   </component>
