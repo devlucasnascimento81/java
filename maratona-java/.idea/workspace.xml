@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81b3449-7cc5-4d64-90ab-5d97459fb292" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio63/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio63/Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/exercicios/exercicio63/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/ChronoUnitTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/DurationTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/InstantTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/PeriodTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Rdatas/test/TemporalAdjusterTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nascimentolucas/dev/maratonajava/javacore/Sformatacao/DateTimeFormattterTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/exercicios/exercicio62/Ex03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/nascimentolucas/dev/maratonajava/exercicios/exercicio62/Ex03.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,10 +74,12 @@
     "Application.CalculadoraTest05.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CarroTest01.executor": "Run",
+    "Application.ChronoUnitTest01.executor": "Run",
     "Application.ClienteTest01.executor": "Run",
     "Application.DataLoaderTest01.executor": "Run",
     "Application.DataTest01.executor": "Run",
     "Application.Desafio1.executor": "Run",
+    "Application.DurationTest01.executor": "Run",
     "Application.Elements.executor": "Run",
     "Application.EscolaTest01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
@@ -96,6 +100,7 @@
     "Application.HerancaTest02.executor": "Run",
     "Application.InsertionEx.executor": "Run",
     "Application.InsertionSort.executor": "Run",
+    "Application.InstantTest01.executor": "Run",
     "Application.Invercao.executor": "Run",
     "Application.JogadorTest01.executor": "Run",
     "Application.JogadorTest02.executor": "Run",
@@ -106,6 +111,7 @@
     "Application.LocalDateTimeTest01.executor": "Run",
     "Application.LocalTimeTest01.executor": "Run",
     "Application.OlaDevLucas.executor": "Run",
+    "Application.PeriodTest01.executor": "Run",
     "Application.PersonMain.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.ProdutoTest01.executor": "Run",
@@ -119,6 +125,7 @@
     "Application.StringBuilderTest01.executor": "Run",
     "Application.StringTest01.executor": "Run",
     "Application.StringTest02.executor": "Run",
+    "Application.TemporalAdjusterTest01.executor": "Run",
     "Application.ex01.executor": "Run",
     "Application.exercicio10Test.executor": "Run",
     "Application.exercicio11Test.executor": "Run",
@@ -177,13 +184,13 @@
       <recent name="nascimentolucas.dev.maratonajava.javacore.Dconstrutores.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex03">
-    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.Ex02" />
+  <component name="RunManager" selected="Application.TemporalAdjusterTest01">
+    <configuration name="ChronoUnitTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.ChronoUnitTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.Ex03" />
+    <configuration name="DurationTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.DurationTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio62.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex01" />
+    <configuration name="InstantTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.InstantTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio63.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex02" />
+    <configuration name="PeriodTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.PeriodTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio63.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex03" />
+    <configuration name="TemporalAdjusterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.TemporalAdjusterTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.exercicios.exercicio63.*" />
+          <option name="PATTERN" value="nascimentolucas.dev.maratonajava.javacore.Rdatas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex03" />
-        <item itemvalue="Application.nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex02" />
-        <item itemvalue="Application.nascimentolucas.dev.maratonajava.exercicios.exercicio63.Ex01" />
-        <item itemvalue="Application.Ex03" />
-        <item itemvalue="Application.Ex02" />
+        <item itemvalue="Application.TemporalAdjusterTest01" />
+        <item itemvalue="Application.ChronoUnitTest01" />
+        <item itemvalue="Application.PeriodTest01" />
+        <item itemvalue="Application.DurationTest01" />
+        <item itemvalue="Application.InstantTest01" />
       </list>
     </recent_temporary>
   </component>
